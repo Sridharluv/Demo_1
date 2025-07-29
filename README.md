@@ -16,5 +16,5 @@ Demo_01/
 - Deployment automation using workflows
 - Folder-based trigger using 'paths'
 
-▶️ How to Deploy
+▶️ How to Deploy page
 Push changes in 02-static-site/ to the main branch.
