@@ -9,7 +9,7 @@ Demo_01/
         └── 03-pull-request-trigger.yml
 
 
-🎯 What You’ll Learn
+🎯 What You’ll Learn ?
 
 Triggering workflows on pull requests (on: pull_request)
 Automating PR checks before merging
