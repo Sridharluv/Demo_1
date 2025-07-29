@@ -11,7 +11,7 @@ Demo_01/
     └── workflows/
         └── 02-static-site.yml
 
-🎯 What You'll Learn about webpage
+🎯 What You'll Learn about webpage !
 - GitHub Pages setup and static site hosting
 - Deployment automation using workflows
 - Folder-based trigger using 'paths'
