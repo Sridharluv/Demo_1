@@ -11,10 +11,10 @@ Demo_01/
     └── workflows/
         └── 02-static-site.yml
 
-🎯 What You'll Learn
+🎯 What You'll Learn abot webpage
 - GitHub Pages setup and static site hosting
 - Deployment automation using workflows
 - Folder-based trigger using 'paths'
 
 ▶️ How to Deploy
-Push changes in 02-github-StaticWebsite/ to the main branch.
+Push changes in 02-static-website/ to the main branch.
