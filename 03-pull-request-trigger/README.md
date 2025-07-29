@@ -1,12 +1,12 @@
-Example 4: Trigger a workflow based on pull request
+Example 3: Trigger a workflow based on pull request
 
 📁 Folder Structure
 Demo_01/
-├── 04-pull-request-trigger/
+├── 03-pull-request-trigger/
 │   └── README.md
 └── .github/
     └── workflows/
-        └── 04-pull-request-trigger.yml
+        └── 03-pull-request-trigger.yml
 
 
 🎯 What You’ll Learn
