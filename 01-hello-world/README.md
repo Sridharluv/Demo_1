@@ -11,7 +11,7 @@ Demo_01/
     └── workflows/
         └── 01-hello-world.yml
 
-🎯 What You'll Learn
+🎯 What You'll Learn today?
 - Triggering workflows on folder change
 - Running Python code in GitHub Actions
 - Basics of workflow structure (on, jobs, steps)
